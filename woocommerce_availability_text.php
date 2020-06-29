@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WC Availability Text
  * Version: 1.0.0
- * Plugin URI: https://samuburgueno.com
+ * Plugin URI: https://github.com/samuburgueno/woocommerce-availabilty-text
  * Description: Change Out of stock availability display, with defined custom text.
  * Author URI: https://samuburgueno.com
  * Domain Path: /languages/
