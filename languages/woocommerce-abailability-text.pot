@@ -1,0 +1,56 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Availability Text\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-29 19:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: woocommerce_availability_text.php:51
+msgid "Availability text"
+msgstr ""
+
+#. Description of the plugin
+msgid "Change Out of stock availability display, with defined custom text."
+msgstr ""
+
+#: woocommerce_availability_text.php:28
+msgid "Check availability"
+msgstr ""
+
+#: woocommerce_availability_text.php:41
+msgid "Contact link"
+msgstr ""
+
+#: woocommerce_availability_text.php:53
+msgid ""
+"Enter a text to know when the product will be available. Example: "
+"\"Available in 15 days\". Visible when backorders enabled."
+msgstr ""
+
+#: woocommerce_availability_text.php:43
+msgid ""
+"Enter the contact page link for unavailable products. Visible when "
+"backorders disabled."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/samuburgueno/woocommerce-availabilty-text"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://samuburgueno.com"
+msgstr ""
+
+#. Name of the plugin
+msgid "WC Availability Text"
+msgstr ""
