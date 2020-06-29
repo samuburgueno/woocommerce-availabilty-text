@@ -1,0 +1,1 @@
+# woocommerce-availabilty-text
