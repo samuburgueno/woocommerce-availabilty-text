@@ -25,7 +25,7 @@ function filter_product_availability_text( $availability, $product ) {
 	if ( $product->get_backorders() != 'no' ) {
 		$availability .= '<p class="stock">' . $product->get_meta( 'wat_availability_text' ) . '</p>';
 	} else {
-		$availability .= '<p class="stock"><a class="button alt" target="_self" href="' . $product->get_meta( 'wat_contact_link' ) . '?product_name=' . $product->get_name() . '&product_id=' . $product->get_id() . '">' . __( 'Check availability', 'woocommerce-abailability-text' ) . '</a></p>';
+		$availability .= '<p class="stock"><a class="button alt" target="_blank" href="' . $product->get_meta( 'wat_contact_link' ) . '">' . __( 'Check availability', 'woocommerce-abailability-text' ) . '</a></p>';
 	}
 
     return $availability;
