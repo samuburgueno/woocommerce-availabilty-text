@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WC Availability Text
+ * Plugin Name: Availability Text for WooCommerce
  * Version: 1.0.0
  * Plugin URI: https://github.com/samuburgueno/woocommerce-availabilty-text
  * Description: Change Out of stock availability display, with defined custom text.
